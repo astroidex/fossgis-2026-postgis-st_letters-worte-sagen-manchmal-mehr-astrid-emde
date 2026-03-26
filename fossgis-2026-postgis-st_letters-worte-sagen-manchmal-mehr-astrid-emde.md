@@ -103,6 +103,7 @@ Create table letters (
 [![Schauen Sie sich das Video an](https://raw.githubusercontent.com/astroidex/fossgis-2026-postgis-st_letters-worte-sagen-manchmal-mehr-astrid-emde/refs/heads/main/img/video_static.png)](https://youtu.be/tJus7hJhJv4)
 
 
+
 ### QGIS Server WMS veröffentlichen und in Mapbender anzeigen
 
 ![QGIS2Mapbender](img/qgis2mapbender.png)
